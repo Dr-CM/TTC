@@ -29,3 +29,5 @@ systemctl enable $COIN_NAME.service >/dev/null 2>&1
 systemctl start $COIN_NAME.service
 sleep 8
 }
+
+configure_systemd
