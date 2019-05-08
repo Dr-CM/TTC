@@ -11,8 +11,6 @@
 
 
 
-10. 끝.
-     이제부턴 아마존 서버 접속시 login as : ubuntu로 로그인하지 말고 root로 바로 로그인 하세요.
 # TTC Supernode setting
 https://github.com/TTCECO/gttc/wiki/Building-GTTC
 
