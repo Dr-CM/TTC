@@ -48,3 +48,5 @@ source ~/.profile
 https://github.com/TTCECO/gttc/wiki/Building-GTTC
 
 https://github.com/TTCECO/gttc/wiki/HOWTO-BUILD-SUPERNODE
+# ubuntu 보안 설정
+https://conory.com/blog/42440
