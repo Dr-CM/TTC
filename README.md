@@ -23,6 +23,7 @@ systemctl start fail2ban
 nano /etc/fail2ban/jail.conf
 service fail2ban restart
 ```
+```
 chmod 100 /bin/ps
 chattr +i /bin/ps
 chmod 100 /bin/ping
