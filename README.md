@@ -63,7 +63,7 @@ sudo apt-get -y upgrade
 
 ```
 cd /tmp
-wget https://dl.google.com/go/go1.12.6.linux-amd64.tar.gz
+wget https://dl.google.com/go/go1.15.4.linux-amd64.tar.gz
 ```
 
 ```
